@@ -11,7 +11,6 @@ Controls for the game are just left and right arrow to turn the worm left and ri
 
 -Mark
 
-![WORM ATTACK SCREENSHOT](worm_attack.png)
 
 
 
